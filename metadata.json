@@ -1,0 +1,6 @@
+{
+  "name": "CareLink",
+  "description": "An elderly care health monitoring app that tracks medication schedules and vitals in real-time, featuring emergency SOS alerts, caregivers' health trends reports, secure medical chat portal, appointments, voice assistance, and AI wellness diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
